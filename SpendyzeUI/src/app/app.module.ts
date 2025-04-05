@@ -9,9 +9,20 @@ import {MatButtonModule} from '@angular/material/button';
 import {MatSidenavModule} from '@angular/material/sidenav';
 import {MatListModule} from '@angular/material/list';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
+import { IncomeComponent } from './income/income.component';
+import { RouterModule } from '@angular/router';
+import { ExpenseComponent } from './expense/expense.component';
+import { DashboardComponent } from './dashboard/dashboard.component';
+import { SettingsComponent } from './settings/settings.component';
+import { ReportsComponent } from './reports/reports.component';
 @NgModule({
   declarations: [
-    AppComponent
+    AppComponent,
+    IncomeComponent,
+    ExpenseComponent,
+    DashboardComponent,
+    SettingsComponent,
+    ReportsComponent
   ],
   imports: [
     BrowserAnimationsModule,
@@ -20,7 +31,8 @@ import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
     MatButtonModule,
     MatSidenavModule,
     MatListModule,
-    AppRoutingModule
+    AppRoutingModule,
+    RouterModule
   ],
   providers: [],
   bootstrap: [AppComponent]

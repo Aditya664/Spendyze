@@ -45,9 +45,9 @@ body {
 }
 
 .logo {
-  width: 80%;
-  max-width: 80%;
-  height: 200px;
+  width: 100%;
+  max-width: 100%;
+  height: 250px;
   transition: all 0.3s ease;
 }
 
@@ -62,8 +62,6 @@ mat-nav-list a {
   display: flex;
   align-items: center;
   gap: 12px;
-  padding: 12px 20px;
-  margin: 4px 12px;
   border-left: 3px solid transparent;
   border-radius: 4px;
   font-weight: 500;
@@ -133,9 +131,4 @@ mat-nav-list a.active {
     display: none;
   }
 
-  .sidebar-header {
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-  }
 }
