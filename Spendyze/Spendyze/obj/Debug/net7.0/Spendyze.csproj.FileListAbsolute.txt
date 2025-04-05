@@ -1,0 +1,167 @@
+C:\Users\Aditya Deshmukh\source\repos\Spendyze\Spendyze\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Aditya Deshmukh\source\repos\Spendyze\Spendyze\bin\Debug\net7.0\appsettings.json
+C:\Users\Aditya Deshmukh\source\repos\Spendyze\Spendyze\bin\Debug\net7.0\Spendyze.exe
+C:\Users\Aditya Deshmukh\source\repos\Spendyze\Spendyze\bin\Debug\net7.0\Spendyze.deps.json
+C:\Users\Aditya Deshmukh\source\repos\Spendyze\Spendyze\bin\Debug\net7.0\Spendyze.runtimeconfig.json
+C:\Users\Aditya Deshmukh\source\repos\Spendyze\Spendyze\bin\Debug\net7.0\Spendyze.dll
+C:\Users\Aditya Deshmukh\source\repos\Spendyze\Spendyze\bin\Debug\net7.0\Spendyze.pdb
+C:\Users\Aditya Deshmukh\source\repos\Spendyze\Spendyze\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Aditya Deshmukh\source\repos\Spendyze\Spendyze\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Aditya Deshmukh\source\repos\Spendyze\Spendyze\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Aditya Deshmukh\source\repos\Spendyze\Spendyze\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Aditya Deshmukh\source\repos\Spendyze\Spendyze\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Aditya Deshmukh\source\repos\Spendyze\Spendyze\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Aditya Deshmukh\source\repos\Spendyze\Spendyze\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Aditya Deshmukh\source\repos\Spendyze\Spendyze\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Aditya Deshmukh\source\repos\Spendyze\Spendyze\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Aditya Deshmukh\source\repos\Spendyze\Spendyze\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Aditya Deshmukh\source\repos\Spendyze\Spendyze\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Aditya Deshmukh\source\repos\Spendyze\Spendyze\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Aditya Deshmukh\source\repos\Spendyze\Spendyze\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Aditya Deshmukh\source\repos\Spendyze\Spendyze\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Aditya Deshmukh\source\repos\Spendyze\Spendyze\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Aditya Deshmukh\source\repos\Spendyze\Spendyze\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Aditya Deshmukh\source\repos\Spendyze\Spendyze\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Aditya Deshmukh\source\repos\Spendyze\Spendyze\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Aditya Deshmukh\source\repos\Spendyze\Spendyze\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Aditya Deshmukh\source\repos\Spendyze\Spendyze\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Aditya Deshmukh\source\repos\Spendyze\Spendyze\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Aditya Deshmukh\source\repos\Spendyze\Spendyze\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Aditya Deshmukh\source\repos\Spendyze\Spendyze\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Aditya Deshmukh\source\repos\Spendyze\Spendyze\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Aditya Deshmukh\source\repos\Spendyze\Spendyze\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Aditya Deshmukh\source\repos\Spendyze\Spendyze\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Aditya Deshmukh\source\repos\Spendyze\Spendyze\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Aditya Deshmukh\source\repos\Spendyze\Spendyze\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Aditya Deshmukh\source\repos\Spendyze\Spendyze\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Aditya Deshmukh\source\repos\Spendyze\Spendyze\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Aditya Deshmukh\source\repos\Spendyze\Spendyze\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Aditya Deshmukh\source\repos\Spendyze\Spendyze\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Aditya Deshmukh\source\repos\Spendyze\Spendyze\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Aditya Deshmukh\source\repos\Spendyze\Spendyze\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Aditya Deshmukh\source\repos\Spendyze\Spendyze\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Aditya Deshmukh\source\repos\Spendyze\Spendyze\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Aditya Deshmukh\source\repos\Spendyze\Spendyze\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Aditya Deshmukh\source\repos\Spendyze\Spendyze\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Aditya Deshmukh\source\repos\Spendyze\Spendyze\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Aditya Deshmukh\source\repos\Spendyze\Spendyze\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Aditya Deshmukh\source\repos\Spendyze\Spendyze\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Aditya Deshmukh\source\repos\Spendyze\Spendyze\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Aditya Deshmukh\source\repos\Spendyze\Spendyze\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Aditya Deshmukh\source\repos\Spendyze\Spendyze\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Aditya Deshmukh\source\repos\Spendyze\Spendyze\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Aditya Deshmukh\source\repos\Spendyze\Spendyze\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Aditya Deshmukh\source\repos\Spendyze\Spendyze\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Aditya Deshmukh\source\repos\Spendyze\Spendyze\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Aditya Deshmukh\source\repos\Spendyze\Spendyze\obj\Debug\net7.0\Spendyze.csproj.AssemblyReference.cache
+C:\Users\Aditya Deshmukh\source\repos\Spendyze\Spendyze\obj\Debug\net7.0\Spendyze.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aditya Deshmukh\source\repos\Spendyze\Spendyze\obj\Debug\net7.0\Spendyze.AssemblyInfoInputs.cache
+C:\Users\Aditya Deshmukh\source\repos\Spendyze\Spendyze\obj\Debug\net7.0\Spendyze.AssemblyInfo.cs
+C:\Users\Aditya Deshmukh\source\repos\Spendyze\Spendyze\obj\Debug\net7.0\Spendyze.csproj.CoreCompileInputs.cache
+C:\Users\Aditya Deshmukh\source\repos\Spendyze\Spendyze\obj\Debug\net7.0\Spendyze.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Aditya Deshmukh\source\repos\Spendyze\Spendyze\obj\Debug\net7.0\Spendyze.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Aditya Deshmukh\source\repos\Spendyze\Spendyze\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Aditya Deshmukh\source\repos\Spendyze\Spendyze\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Aditya Deshmukh\source\repos\Spendyze\Spendyze\obj\Debug\net7.0\staticwebassets\msbuild.Spendyze.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Aditya Deshmukh\source\repos\Spendyze\Spendyze\obj\Debug\net7.0\staticwebassets\msbuild.build.Spendyze.props
+C:\Users\Aditya Deshmukh\source\repos\Spendyze\Spendyze\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Spendyze.props
+C:\Users\Aditya Deshmukh\source\repos\Spendyze\Spendyze\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Spendyze.props
+C:\Users\Aditya Deshmukh\source\repos\Spendyze\Spendyze\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Aditya Deshmukh\source\repos\Spendyze\Spendyze\obj\Debug\net7.0\scopedcss\bundle\Spendyze.styles.css
+C:\Users\Aditya Deshmukh\source\repos\Spendyze\Spendyze\obj\Debug\net7.0\Spendyze.csproj.CopyComplete
+C:\Users\Aditya Deshmukh\source\repos\Spendyze\Spendyze\obj\Debug\net7.0\Spendyze.dll
+C:\Users\Aditya Deshmukh\source\repos\Spendyze\Spendyze\obj\Debug\net7.0\refint\Spendyze.dll
+C:\Users\Aditya Deshmukh\source\repos\Spendyze\Spendyze\obj\Debug\net7.0\Spendyze.pdb
+C:\Users\Aditya Deshmukh\source\repos\Spendyze\Spendyze\obj\Debug\net7.0\Spendyze.genruntimeconfig.cache
+C:\Users\Aditya Deshmukh\source\repos\Spendyze\Spendyze\obj\Debug\net7.0\ref\Spendyze.dll
+C:\Users\Aditya Deshmukh\source\repos\Spendyze\Spendyze\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Aditya Deshmukh\source\repos\Spendyze\Spendyze\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Aditya Deshmukh\source\repos\Spendyze\Spendyze\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Aditya Deshmukh\source\repos\Spendyze\Spendyze\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Aditya Deshmukh\source\repos\Spendyze\Spendyze\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Aditya Deshmukh\source\repos\Spendyze\Spendyze\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Aditya Deshmukh\source\repos\Spendyze\Spendyze\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+D:\Spendyze\Spendyze\Spendyze\bin\Debug\net7.0\appsettings.Development.json
+D:\Spendyze\Spendyze\Spendyze\bin\Debug\net7.0\appsettings.json
+D:\Spendyze\Spendyze\Spendyze\bin\Debug\net7.0\Spendyze.exe
+D:\Spendyze\Spendyze\Spendyze\bin\Debug\net7.0\Spendyze.deps.json
+D:\Spendyze\Spendyze\Spendyze\bin\Debug\net7.0\Spendyze.runtimeconfig.json
+D:\Spendyze\Spendyze\Spendyze\bin\Debug\net7.0\Spendyze.dll
+D:\Spendyze\Spendyze\Spendyze\bin\Debug\net7.0\Spendyze.pdb
+D:\Spendyze\Spendyze\Spendyze\bin\Debug\net7.0\Azure.Core.dll
+D:\Spendyze\Spendyze\Spendyze\bin\Debug\net7.0\Azure.Identity.dll
+D:\Spendyze\Spendyze\Spendyze\bin\Debug\net7.0\Humanizer.dll
+D:\Spendyze\Spendyze\Spendyze\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Spendyze\Spendyze\Spendyze\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Spendyze\Spendyze\Spendyze\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Spendyze\Spendyze\Spendyze\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Spendyze\Spendyze\Spendyze\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Spendyze\Spendyze\Spendyze\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Spendyze\Spendyze\Spendyze\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\Spendyze\Spendyze\Spendyze\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\Spendyze\Spendyze\Spendyze\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Spendyze\Spendyze\Spendyze\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Spendyze\Spendyze\Spendyze\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Spendyze\Spendyze\Spendyze\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Spendyze\Spendyze\Spendyze\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\Spendyze\Spendyze\Spendyze\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+D:\Spendyze\Spendyze\Spendyze\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Spendyze\Spendyze\Spendyze\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+D:\Spendyze\Spendyze\Spendyze\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\Spendyze\Spendyze\Spendyze\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Spendyze\Spendyze\Spendyze\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Spendyze\Spendyze\Spendyze\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Spendyze\Spendyze\Spendyze\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\Spendyze\Spendyze\Spendyze\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\Spendyze\Spendyze\Spendyze\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Spendyze\Spendyze\Spendyze\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\Spendyze\Spendyze\Spendyze\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\Spendyze\Spendyze\Spendyze\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\Spendyze\Spendyze\Spendyze\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Spendyze\Spendyze\Spendyze\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\Spendyze\Spendyze\Spendyze\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Spendyze\Spendyze\Spendyze\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Spendyze\Spendyze\Spendyze\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Spendyze\Spendyze\Spendyze\bin\Debug\net7.0\System.CodeDom.dll
+D:\Spendyze\Spendyze\Spendyze\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\Spendyze\Spendyze\Spendyze\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\Spendyze\Spendyze\Spendyze\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Spendyze\Spendyze\Spendyze\bin\Debug\net7.0\System.Memory.Data.dll
+D:\Spendyze\Spendyze\Spendyze\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\Spendyze\Spendyze\Spendyze\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Spendyze\Spendyze\Spendyze\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\Spendyze\Spendyze\Spendyze\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\Spendyze\Spendyze\Spendyze\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Spendyze\Spendyze\Spendyze\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Spendyze\Spendyze\Spendyze\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Spendyze\Spendyze\Spendyze\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Spendyze\Spendyze\Spendyze\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Spendyze\Spendyze\Spendyze\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Spendyze\Spendyze\Spendyze\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Spendyze\Spendyze\Spendyze\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Spendyze\Spendyze\Spendyze\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Spendyze\Spendyze\Spendyze\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Spendyze\Spendyze\Spendyze\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Spendyze\Spendyze\Spendyze\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Spendyze\Spendyze\Spendyze\obj\Debug\net7.0\Spendyze.csproj.AssemblyReference.cache
+D:\Spendyze\Spendyze\Spendyze\obj\Debug\net7.0\Spendyze.GeneratedMSBuildEditorConfig.editorconfig
+D:\Spendyze\Spendyze\Spendyze\obj\Debug\net7.0\Spendyze.AssemblyInfoInputs.cache
+D:\Spendyze\Spendyze\Spendyze\obj\Debug\net7.0\Spendyze.AssemblyInfo.cs
+D:\Spendyze\Spendyze\Spendyze\obj\Debug\net7.0\Spendyze.csproj.CoreCompileInputs.cache
+D:\Spendyze\Spendyze\Spendyze\obj\Debug\net7.0\Spendyze.MvcApplicationPartsAssemblyInfo.cs
+D:\Spendyze\Spendyze\Spendyze\obj\Debug\net7.0\Spendyze.MvcApplicationPartsAssemblyInfo.cache
+D:\Spendyze\Spendyze\Spendyze\obj\Debug\net7.0\Spendyze.sourcelink.json
+D:\Spendyze\Spendyze\Spendyze\obj\Debug\net7.0\staticwebassets.build.json
+D:\Spendyze\Spendyze\Spendyze\obj\Debug\net7.0\staticwebassets.development.json
+D:\Spendyze\Spendyze\Spendyze\obj\Debug\net7.0\staticwebassets\msbuild.Spendyze.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Spendyze\Spendyze\Spendyze\obj\Debug\net7.0\staticwebassets\msbuild.build.Spendyze.props
+D:\Spendyze\Spendyze\Spendyze\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Spendyze.props
+D:\Spendyze\Spendyze\Spendyze\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Spendyze.props
+D:\Spendyze\Spendyze\Spendyze\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Spendyze\Spendyze\Spendyze\obj\Debug\net7.0\scopedcss\bundle\Spendyze.styles.css
+D:\Spendyze\Spendyze\Spendyze\obj\Debug\net7.0\Spendyze.csproj.CopyComplete
+D:\Spendyze\Spendyze\Spendyze\obj\Debug\net7.0\Spendyze.dll
+D:\Spendyze\Spendyze\Spendyze\obj\Debug\net7.0\refint\Spendyze.dll
+D:\Spendyze\Spendyze\Spendyze\obj\Debug\net7.0\Spendyze.pdb
+D:\Spendyze\Spendyze\Spendyze\obj\Debug\net7.0\Spendyze.genruntimeconfig.cache
+D:\Spendyze\Spendyze\Spendyze\obj\Debug\net7.0\ref\Spendyze.dll
