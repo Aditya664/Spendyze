@@ -1,0 +1,89 @@
+# ------------------------
+# 👨‍💻 .NET Core
+# ------------------------
+
+## Ignore build outputs
+bin/
+obj/
+out/
+
+## User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Rider / VS Code / VS
+.idea/
+.vscode/
+*.njsproj
+*.sln*
+*.vcxproj*
+*.csproj.user
+
+## Logs and database
+*.log
+*.ldf
+*.mdf
+*.sqlite
+
+## Secrets
+appsettings.*.json
+appsettings.Development.json
+secrets.json
+
+## Publish outputs
+*.publish/
+*.pubxml
+
+## Others
+_ReSharper*/
+*.DotSettings.user
+
+# ------------------------
+# 🌐 Angular
+# ------------------------
+
+## Dependencies
+node_modules/
+
+## Build output
+dist/
+tmp/
+out-tsc/
+.angular/
+
+## Environment files
+.env
+.env.*.local
+
+## IDEs/editors
+.idea/
+.vscode/
+*.sublime*
+
+## OS
+.DS_Store
+Thumbs.db
+
+## Logs
+*.log
+
+# ------------------------
+# 📦 Package files
+# ------------------------
+
+# npm/yarn/pnpm package locks
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# ------------------------
+# 🔒 Security
+# ------------------------
+
+# Private keys (just in case)
+*.pem
+*.key
+*.crt
+*.pfx
