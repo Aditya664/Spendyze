@@ -32,10 +32,10 @@
 
 ## 💻 Technologies Used
 
-- **🖥️ Frontend**: ⚛️ Angular / React (Choose one based on your preference)
-- **🌐 Backend**: Node.js with Express / .NET Core
-- **🗄️ Database**: MongoDB / PostgreSQL
-- **🔒 Authentication**: Firebase / JWT-based authentication
+- **🖥️ Frontend**: ⚛️ Angular
+- **🌐 Backend**: .NET Core
+- **🗄️ Database**: MSSQL
+- **🔒 Authentication**: JWT-based authentication
 
 ## 🤝 Contribution
 
