@@ -1,3 +1,5 @@
+![title](Images/example.png)
+
 # 🤑 Spendyze
 
 **Spendyze** is a ✨modern✨ & 👫 user-friendly 💰 income & 💸 expense tracking 📊 app that helps users manage their 💵 financial transactions 🔄 effectively. With a sleek 🎨 UI & robust 🛠️ features, Spendyze simplifies personal 🏦 finance management.
