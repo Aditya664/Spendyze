@@ -54,6 +54,8 @@ body {
 .app-name {
   font-size: 20px;
   font-weight: 600;
+  margin: 30px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
   color: var(--primary-color);
 }
 
