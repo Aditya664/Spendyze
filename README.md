@@ -1,4 +1,4 @@
-![title](Images/example.png)
+<img src="https://raw.githubusercontent.com/Aditya664/Spendyze/refs/heads/master/ChatGPT%20Image%20Mar%2031%2C%202025%2C%2009_56_41%20PM.png?token=GHSAT0AAAAAAC77MT4SPCP6NXLPRMABIGEGZ7Q2OHA" alt="Spendyze Ghibli Programmer" height="500" width="100%"/>
 
 # 🤑 Spendyze
 
