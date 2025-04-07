@@ -1,30 +1,24 @@
-<mat-sidenav-container class="app-container">
+<mat-sidenav-container class="app-container" *ngIf="!isLoginRoute; else loginLayout">
   <mat-sidenav #sidenav class="app-sidenav" mode="side" [(opened)]="isSidebarOpen">
-    <!-- Logo for desktop, name for mobile -->
     <div class="sidebar-header">
       <img src="assets/logo.png" alt="Spendyze Logo" class="logo desktop-only" />
       <span class="app-name mobile-only">Spendyze</span>
     </div>
     <mat-nav-list>
       <a mat-list-item (click)="navigateTo('/dashboard')">
-        <mat-icon>dashboard</mat-icon>
-        <span>Dashboard</span>
+        <mat-icon>dashboard</mat-icon><span>Dashboard</span>
       </a>
       <a mat-list-item (click)="navigateTo('/income')">
-        <mat-icon>trending_up</mat-icon>
-        <span>Income</span>
+        <mat-icon>trending_up</mat-icon><span>Income</span>
       </a>
       <a mat-list-item (click)="navigateTo('/expenses')">
-        <mat-icon>trending_down</mat-icon>
-        <span>Expenses</span>
+        <mat-icon>trending_down</mat-icon><span>Expenses</span>
       </a>
       <a mat-list-item (click)="navigateTo('/reports')">
-        <mat-icon>bar_chart</mat-icon>
-        <span>Reports</span>
+        <mat-icon>bar_chart</mat-icon><span>Reports</span>
       </a>
       <a mat-list-item (click)="navigateTo('/settings')">
-        <mat-icon>settings</mat-icon>
-        <span>Settings</span>
+        <mat-icon>settings</mat-icon><span>Settings</span>
       </a>
     </mat-nav-list>
   </mat-sidenav>
@@ -36,9 +30,16 @@
       </button>
       <span class="title">Spendyze</span>
       <span class="spacer"></span>
-      <button mat-icon-button>
+      <button  mat-icon-button [matMenuTriggerFor]="menu">
         <mat-icon>person</mat-icon>
       </button>
+
+      <mat-menu #menu="matMenu">
+        <button  (click)="logout()" mat-menu-item>
+          <mat-icon>logout</mat-icon>
+          <span>Logout</span>
+        </button>
+      </mat-menu>
     </mat-toolbar>
 
     <div class="app-content">
@@ -46,3 +47,10 @@
     </div>
   </mat-sidenav-content>
 </mat-sidenav-container>
+
+<ng-template #loginLayout>
+  <router-outlet></router-outlet>
+</ng-template>
+<div class="loader-overlay" *ngIf="isLoading | async">
+  <mat-spinner [diameter]="40" mode="indeterminate"></mat-spinner>
+</div>

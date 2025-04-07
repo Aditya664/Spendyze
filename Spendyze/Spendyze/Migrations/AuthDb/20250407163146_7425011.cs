@@ -6,7 +6,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 namespace Spendyze.Migrations.AuthDb
 {
     /// <inheritdoc />
-    public partial class _04052023 : Migration
+    public partial class _7425011 : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)

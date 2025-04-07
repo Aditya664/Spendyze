@@ -17,6 +17,7 @@
 body {
   font-family: var(--font-family);
   margin: 0;
+  padding: 0;
 }
 
 .app-container {
@@ -133,4 +134,18 @@ mat-nav-list a.active {
     display: none;
   }
 
+}
+
+/* loader.component.css */
+.loader-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  z-index: 10000;
+  background: rgba(255, 255, 255, 0.6);
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
