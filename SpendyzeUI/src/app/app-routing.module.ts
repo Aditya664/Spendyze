@@ -8,6 +8,7 @@ import { SettingsComponent } from './settings/settings.component';
 import { ReportsComponent } from './reports/reports.component';
 import { LoginComponent } from './login/login.component';
 import { AuthGuard } from './gaurd/AppGuard';
+import { AccountComponent } from './account/account.component';
 
 const routes: Routes = [
   { path: '', redirectTo: 'login', pathMatch: 'full' },
@@ -21,7 +22,8 @@ const routes: Routes = [
       { path: 'income', component: IncomeComponent },
       { path: 'expenses', component: ExpenseComponent },
       { path: 'settings', component: SettingsComponent },
-      { path: 'reports', component: ReportsComponent }
+      { path: 'reports', component: ReportsComponent },
+      { path: 'accounts', component: AccountComponent }
     ]
   },
 

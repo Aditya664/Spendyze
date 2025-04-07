@@ -15,7 +15,7 @@ namespace Spendyze.Controllers
         
         public TransactionAccountController(ITransactionAccountService transactionAccountService) { _transactionAccountService = transactionAccountService; }
 
-        [HttpPost]
+        [HttpGet]
         [Route("GetAllAccounts")]
         public async Task<ActionResult<List<AccountResponseDto>>> GetAll()
         {

@@ -15,6 +15,7 @@ import { SettingsComponent } from './settings/settings.component';
 import { ReportsComponent } from './reports/reports.component';
 import { LoginComponent } from './login/login.component';
 import { MatCardModule } from '@angular/material/card';
+import { MatTableModule } from '@angular/material/table';
 import { ReactiveFormsModule } from '@angular/forms';
 import { MatFormFieldModule } from '@angular/material/form-field';
 import { MatInputModule } from '@angular/material/input';
@@ -25,6 +26,8 @@ import {MatMenuModule} from '@angular/material/menu';
 import {MatProgressSpinnerModule} from '@angular/material/progress-spinner';
 import { LoaderService } from './services/loader.service';
 import { LoaderInterceptor } from './services/login.interseptor';
+import { AccountComponent } from './account/account.component';
+import { TokenInterceptor } from './services/token.interseptor';
 @NgModule({
   declarations: [
     AppComponent,
@@ -34,6 +37,7 @@ import { LoaderInterceptor } from './services/login.interseptor';
     SettingsComponent,
     ReportsComponent,
     LoginComponent,
+    AccountComponent,
   ],
   imports: [
     BrowserAnimationsModule,
@@ -51,8 +55,15 @@ import { LoaderInterceptor } from './services/login.interseptor';
     HttpClientModule,
     MatMenuModule,
     MatProgressSpinnerModule,
+    MatTableModule
   ],
-  providers: [AuthGuard,AuthService,LoaderService  ,{ provide: HTTP_INTERCEPTORS, useClass: LoaderInterceptor, multi: true }],
+  providers: [AuthGuard,AuthService,LoaderService,
+    { provide: HTTP_INTERCEPTORS, useClass: LoaderInterceptor, multi: true },
+     {
+    provide: HTTP_INTERCEPTORS,
+    useClass: TokenInterceptor,
+    multi: true
+  }],
   bootstrap: [AppComponent]
 })
 export class AppModule { }

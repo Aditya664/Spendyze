@@ -25,7 +25,7 @@ export class LoginComponent implements OnInit {
     if (this.formGroup.valid) {
       this.authSerice.login({username:this.formGroup.get("userName")?.value,password:this.formGroup.get("password")?.value}).subscribe({
         next:(res)=>{
-          localStorage.setItem("token",res.token)
+          localStorage.setItem("token",res.jwtToken)
           this.router.navigate(['/dashboard']);
         },error:(error:Error)=>{
           throw error;
