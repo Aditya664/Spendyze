@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Spendyze")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+90880e870a286e3ab58a7b7ee81663d0f36c30bf")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f23087d28e58792b6c848b0d4b9fdd2e209c268a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Spendyze")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Spendyze")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

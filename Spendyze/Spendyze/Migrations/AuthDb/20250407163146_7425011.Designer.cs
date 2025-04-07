@@ -12,8 +12,8 @@ using Spendyze.Data;
 namespace Spendyze.Migrations.AuthDb
 {
     [DbContext(typeof(AuthDbContext))]
-    [Migration("20250405060444_04-05-2023")]
-    partial class _04052023
+    [Migration("20250407163146_7425011")]
+    partial class _7425011
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)

@@ -1,0 +1,32 @@
+<table mat-table [dataSource]="accounts" class="mat-elevation-z8" multiTemplateDataRows>
+
+    <!-- ID Column -->
+    <ng-container matColumnDef="id">
+      <th mat-header-cell *matHeaderCellDef> Id </th>
+      <td mat-cell *matCellDef="let element"> {{element.id}} </td>
+    </ng-container>
+  
+    <!-- Account Name Column -->
+    <ng-container matColumnDef="accountName">
+      <th mat-header-cell *matHeaderCellDef> Account Name </th>
+      <td mat-cell *matCellDef="let element"> {{element.accountName}} </td>
+    </ng-container>
+  
+    <!-- Balance Column -->
+    <ng-container matColumnDef="balance">
+      <th mat-header-cell *matHeaderCellDef> Balance </th>
+      <td mat-cell *matCellDef="let element"> {{element.balance}} </td>
+    </ng-container>
+  
+    <!-- Status Column -->
+    <ng-container matColumnDef="isActive">
+      <th mat-header-cell *matHeaderCellDef> Status </th>
+      <td mat-cell *matCellDef="let element"> {{element.isActive ? 'Active' : 'Inactive'}} </td>
+    </ng-container>
+  
+    <!-- Header and Row Definitions -->
+    <tr mat-header-row *matHeaderRowDef="displayedColumns"></tr>
+    <tr mat-row *matRowDef="let row; columns: displayedColumns;"></tr>
+  
+  </table>
+  
